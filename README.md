@@ -28,14 +28,14 @@
 <!-- .slide vertical=true -->
 
 - 喜欢 
-  - [【风灵玉秀|MAD】青丝霜雪将月色打捞 （三千年夜行灯x风灵玉秀](https://www.bilibili.com/video/BV19v411h7Kd)
-  - [【风灵玉秀|MAD】月色渐漫 水墨色江南 （夏夕x风灵玉秀](https://www.bilibili.com/video/BV1h5411K7pj)
+  - [【风灵玉秀·MAD】青丝霜雪将月色打捞 （三千年夜行灯x风灵玉秀](https://www.bilibili.com/video/BV19v411h7Kd)
+  - [【风灵玉秀·MAD】月色渐漫 水墨色江南 （夏夕x风灵玉秀](https://www.bilibili.com/video/BV1h5411K7pj)
 
 <!-- .slide vertical=true -->
 
 - 游戏
-  -  [【明日方舟|蛮鳞行动】周年入坑萌新第一次过合约18！狂嚎沙原42鸡翅双核-个人记录](https://www.bilibili.com/video/BV1cb4y1U7L5)
-  -  [【Minecraft|光影】我的世界光影配置文件分享-Complementary Shaders](https://www.bilibili.com/video/BV1xQ4y117AM)
+  -  [【明日方舟·蛮鳞行动】周年入坑萌新第一次过合约18！狂嚎沙原42鸡翅双核-个人记录](https://www.bilibili.com/video/BV1cb4y1U7L5)
+  -  [【Minecraft·光影】我的世界光影配置文件分享-Complementary Shaders](https://www.bilibili.com/video/BV1xQ4y117AM)
   -  [【原神】行北砂皇 砂糖精通队2.0深渊12层上半](https://www.bilibili.com/video/BV1KU4y1J7BY)
 
 <!-- .slide vertical=true -->
@@ -55,4 +55,5 @@
 <!-- .slide -->
 
 =======
+
 #GuguluCKA
