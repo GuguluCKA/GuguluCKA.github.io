@@ -32,8 +32,8 @@
 <!-- .slide vertical=true -->
 
 - 喜欢 
-  - [【风灵玉秀|MAD】青丝霜雪将月色打捞 （三千年夜行灯x风灵玉秀](https://space.bilibili.com/5014818)
-  - https://www.bilibili.com/video/BV1h5411K7pj/
+  - [【风灵玉秀|MAD】青丝霜雪将月色打捞 （三千年夜行灯x风灵玉秀](https://www.bilibili.com/video/BV19v411h7Kd)
+  - [【风灵玉秀|MAD】月色渐漫 水墨色江南 （夏夕x风灵玉秀](https://www.bilibili.com/video/BV1h5411K7pj)
 
 <!-- .slide vertical=true -->
 
