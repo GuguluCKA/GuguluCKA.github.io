@@ -26,20 +26,20 @@
 ## B站·视频
 
 - 喜欢 
-  - [【风灵玉秀|MAD】青丝霜雪将月色打捞](https://www.bilibili.com/video/BV19v411h7Kd)
-  - [【风灵玉秀|MAD】月色渐漫 水墨色江南](https://www.bilibili.com/video/BV1h5411K7pj)
+  - [【风灵玉秀|MAD】青丝霜雪将月色打捞](https://www.bilibili.com/video/BV19v411h7Kd/)
+  - [【风灵玉秀|MAD】月色渐漫 水墨色江南](https://www.bilibili.com/video/BV1h5411K7pj/)
 
 <!-- .slide vertical=true -->
 
 - 游戏
-  - [【明日方舟|蛮鳞行动】周年入坑萌新第一次过合约18](https://www.bilibili.com/video/BV1cb4y1U7L5)
-  - [【Minecraft|光影】我的世界光影配置文件分享](https://www.bilibili.com/video/BV1xQ4y117AM)
-  - [【原神】行北砂皇 砂糖精通队2.0深渊12层上半](https://www.bilibili.com/video/BV1KU4y1J7BY)
+  - [【明日方舟|蛮鳞行动】周年入坑萌新第一次过合约18](https://www.bilibili.com/video/BV1cb4y1U7L5/)
+  - [【Minecraft|光影】我的世界光影配置文件分享](https://www.bilibili.com/video/BV1xQ4y117AM/)
+  - [【原神】行北砂皇 砂糖精通队2.0深渊12层上半](https://www.bilibili.com/video/BV1KU4y1J7BY/)
 
 <!-- .slide vertical=true -->
 
 - 中V
-  - [【中v】言和曲目个人怀旧向推荐 一](https://www.bilibili.com/video/BV15Q4y1Z7fR)
+  - [【中v】言和曲目个人怀旧向推荐 一](https://www.bilibili.com/video/BV15Q4y1Z7fR/)
 
 <!-- .slide -->
 
