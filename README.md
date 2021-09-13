@@ -5,6 +5,7 @@
 <!-- .slide -->
 
 ## Blogs
+- 主义主义 
   -   [ 主义主义的介绍](https://gugulucka.github.io/2021/09/13/%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BB%8B%E7%BB%8D/)
 
 <!-- .slide -->
