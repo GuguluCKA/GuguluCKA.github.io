@@ -4,22 +4,12 @@
 
 <!-- .slide -->
 
-## 联系方式
-
-- 地址
-  - **UESTC - Chengdu, China**
-- 主页
-  - [ B站:溪泠-GuguluCKA-](https://space.bilibili.com/5014818)
+## Blogs
 
 <!-- .slide vertical=true -->
 
-- QQ
-  - **1723029469**
-- WeChat
-  - **溪泠**
-- E-mail:
-  - **[1723029469@qq.com](mailto:1723029469@qq.com)**
-  - **[wangleipeng7@gmail.com](mailto:wangleipeng7@gmail.com)**
+- 主义主义 
+  -   [ 主义主义的介绍](https://gugulucka.github.io/2021/09/13/%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BB%8B%E7%BB%8D/)
 
 <!-- .slide -->
 
@@ -45,7 +35,22 @@
 
 <!-- .slide -->
 
-## Blogs
+## 联系方式
+
+- 地址
+  - **UESTC - Chengdu, China**
+- 主页
+  - [ B站:溪泠-GuguluCKA-](https://space.bilibili.com/5014818)
+
+<!-- .slide vertical=true -->
+
+- QQ
+  - **1723029469**
+- WeChat
+  - **溪泠**
+- E-mail:
+  - **[1723029469@qq.com](mailto:1723029469@qq.com)**
+  - **[wangleipeng7@gmail.com](mailto:wangleipeng7@gmail.com)**
 
 <!-- .slide vertical=true -->
 
