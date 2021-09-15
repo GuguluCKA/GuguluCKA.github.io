@@ -8,6 +8,11 @@
 
 <!-- .slide vertical=true -->
 
+- 阅读
+  -   [ 《康德》加特勒·汤姆森（兼3-2-2-2 先验观念论）](https://gugulucka.github.io/2021/09/15/%E5%BA%B7%E5%BE%B7-%E5%8A%A0%E7%89%B9%E5%8B%92-%E6%B1%A4%E5%A7%86%E6%A3%AE-%E5%85%BC3-2-2-2-%E5%85%88%E9%AA%8C%E8%A7%82%E5%BF%B5%E8%AE%BA/)
+
+<!-- .slide vertical=true -->
+
 - 主义主义 
   -   [ 主义主义的介绍](https://gugulucka.github.io/2021/09/13/%E4%B8%BB%E4%B9%89%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BB%8B%E7%BB%8D/)
 
