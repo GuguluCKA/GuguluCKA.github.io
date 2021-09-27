@@ -11,7 +11,7 @@
 - 阅读
   -   [ 《想象的共同体》本尼迪克特·安德森](https://gugulucka.github.io/2021/09/18/%E6%83%B3%E8%B1%A1%E7%9A%84%E5%85%B1%E5%90%8C%E4%BD%93-%E6%9C%AC%E5%B0%BC%E8%BF%AA%E5%85%8B%E7%89%B9-%E5%AE%89%E5%BE%B7%E6%A3%AE/)
   -   [ 《康德》加特勒·汤姆森（兼3-2-2-2 先验观念论）](https://gugulucka.github.io/2021/09/15/%E5%BA%B7%E5%BE%B7-%E5%8A%A0%E7%89%B9%E5%8B%92-%E6%B1%A4%E5%A7%86%E6%A3%AE-%E5%85%BC3-2-2-2-%E5%85%88%E9%AA%8C%E8%A7%82%E5%BF%B5%E8%AE%BA/)
-
+  -   [ 《社会学》安东尼·吉登斯](https://gugulucka.github.io/2021/09/27/%E7%A4%BE%E4%BC%9A%E5%AD%A6-%E5%AE%89%E4%B8%9C%E5%B0%BC-%E5%90%89%E7%99%BB%E6%96%AF/)
 
 <!-- .slide vertical=true -->
 
